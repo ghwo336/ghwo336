@@ -12,7 +12,7 @@
     </ul> 
   </div>
 </div>
-    <div align= "center">
+    <div align= "start">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
@@ -23,15 +23,15 @@
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
           </div>
     </div>
-    <div align= "center">
+    <div align= "start">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/ghwo336/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ghwo336/"> </a>
+    <div align= "start"> <a href=https://www.instagram.com/ghwo336/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ghwo336/"> </a>
          <a href=https://velog.io/@ghwo336> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ghwo336"> </a>
          <a href=https://ghwo336.tistory.com/ > <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://ghwo336.tistory.com/ "> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "start">  </div> 
     </div>
-    <div align= "center"> 
+    <div align= "start"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 알고리즘 🏅 </h2>
         
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghwo336)](https://solved.ac/ghwo336)
