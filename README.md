@@ -1,12 +1,16 @@
 
 <div align= "start">
-    <div align= "center"> 
+<div align="start">
+  <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😃나의 소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align:start; color: #c9d1d9;"> <li> 문제해결을 좋아하는 웹 개발자 이호재입니다.</li>
-        <li> 홍익대학교 컴퓨터 공학과 3학년</li>
-        <li> 하이아크 개발팀 FE</li>
-        <li> 좋아하는 동물은 펠리컨입니다</li><li> 일단 시도하는편입니다 </div> 
-    </div>
+    <ul style="font-weight: 700; font-size: 15px; text-align: start; color: #c9d1d9; list-style-position: inside;">
+      <li>문제해결을 좋아하는 웹 개발자 이호재입니다.</li>
+      <li>홍익대학교 컴퓨터 공학과 3학년</li>
+      <li>하이아크 개발팀 FE</li>
+      <li>좋아하는 동물은 펠리컨입니다</li>
+      <li>일단 시도하는 편입니다</li>
+    </ul> 
+  </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
