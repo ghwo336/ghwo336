@@ -1,6 +1,6 @@
 
 <div align= "start">
-<div align="center"> 
+<div align="start"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😃나의 소개 </h2>  
   <div style="text-align: left; display: inline-block; color: #c9d1d9;">
     <ul style="font-weight: 700; font-size: 15px; list-style-position: inside; padding-left: 0;">
