@@ -1,5 +1,5 @@
 
-<div align= "center">
+<div align= "start">
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😃나의 소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align:start; color: #c9d1d9;"> <li> 문제해결을 좋아하는 웹 개발자 이호재입니다.</li><li> 좋아하는 동물은 펠리컨입니다</li><li> 일단 시도하는편입니다 </div> 
@@ -27,4 +27,5 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 알고리즘 🏅 </h2>
         
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghwo336)](https://solved.ac/ghwo336)
-    
+
+
