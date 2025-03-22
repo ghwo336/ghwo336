@@ -1,3 +1,4 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={ghwo336})](https://solved.ac/{ghwo336})
 <div align= "center">
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😃나의 소개 </h2>  
@@ -23,9 +24,5 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 알고리즘 🏅 </h2>
-        <div>
-            [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={ghwo336})](https://solved.ac/{ghwo336})
-        </div>
     </div>
     
