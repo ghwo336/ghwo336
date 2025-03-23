@@ -5,7 +5,7 @@
   <div style="text-align: left; display: inline-block; color: #c9d1d9;">
     <ul style="font-weight: 700; font-size: 15px; list-style-position: inside; padding-left: 0;">
       <li>알고리즘을 좋아하고 웹을 개발하는 이호재입니다.</li>
-      <li>홍익대학교 컴퓨터 공학과 3학년</li>
+      <li>홍익대학교 컴퓨터공학과 3학년</li>
       <li>하이아크 개발팀 FE</li>
       <li>좋아하는 동물은 펠리컨입니다</li>
       <li>일단 시도하는 편입니다</li>
