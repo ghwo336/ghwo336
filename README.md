@@ -33,9 +33,8 @@
     </div>
       <div align= "start">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2> <br> 
-    <div align= "start">
       <h3>ghwo336@gmail.com</h3>
-          </div>  <br> 
+        <br> 
     <div align= "start">  </div> 
     </div>
     <div align= "start"> 
