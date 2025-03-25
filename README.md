@@ -31,6 +31,13 @@
           </div>  <br> 
     <div align= "start">  </div> 
     </div>
+      <div align= "start">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact_ </h2> <br> 
+    <div align= "start">
+      ghwo336@gmail.com
+          </div>  <br> 
+    <div align= "start">  </div> 
+    </div>
     <div align= "start"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 알고리즘 🏅 </h2>
         
