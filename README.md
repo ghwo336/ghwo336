@@ -24,8 +24,8 @@
           </div>
     </div>
     <div align= "start">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "start"> <a href=https://www.instagram.com/ghwo336/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ghwo336/"> </a>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Blog </h2> <br> 
+    <div align= "start"> 
          <a href=https://velog.io/@ghwo336> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@ghwo336"> </a>
          <a href=https://ghwo336.tistory.com/ > <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://ghwo336.tistory.com/ "> </a>
           </div>  <br> 
