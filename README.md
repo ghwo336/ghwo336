@@ -38,7 +38,7 @@
   </div>
 
   <div align="start">
-    <h2 style="margin-bottom: 4px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact </h2>
+    <h2 style="margin-bottom: 4px; border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤝 Contact </h2>
     <h3 style="margin-top: 0;">ghwo336@gmail.com</h3>
   </div>
 
