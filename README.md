@@ -48,13 +48,15 @@
       - 개발팀 일원으로 <strong>서브 프론트엔드 개발</strong> 담당<br/>
 - 수상 경력 페이지 담당<br/>
 - 구조적 설계와 협업 경험을 배울 수 있었던 좋은 계기
-    
+- 디자이너, 프론트엔드 선배와 협업
+    </span>
   </h3>
 
   <h3 style="margin-top: 24px;">
     <a href="https://www.hi-rating.com/" target="_blank">Hi-Rating</a> (팀 프로젝트)<br/>
     <span style="font-size: 14px; font-weight: normal;">
       - <strong>프론트엔드 전반</strong>을 혼자 구현한 경쟁 점수 시스템 웹사이트<br/>
+      - 백엔드, 디자이너 들과 협업
       
     
   </h3>
