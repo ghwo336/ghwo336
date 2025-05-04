@@ -46,8 +46,8 @@
     <a href="https://hiarchomepage.web.app/" target="_blank">HiARC 홈페이지</a> (팀 프로젝트)<br/>
     <span style="font-size: 14px; font-weight: normal;">
       - 개발팀 일원으로 <strong>서브 프론트엔드 개발</strong> 담당<br/>
-      - 수상경력 페이지 담당
-      - 학습하게된 좋은 계기
+- 수상 경력 페이지 담당<br/>
+- 구조적 설계와 협업 경험을 배울 수 있었던 좋은 계기
     </span>
   </h3>
 
