@@ -52,7 +52,7 @@
   </h3>
 
   <h3 style="margin-top: 24px;">
-    <a href="https://www.hi-rating.com/" target="_blank">Hi-Rating</a> (단독 프로젝트)<br/>
+    <a href="https://www.hi-rating.com/" target="_blank">Hi-Rating</a> (팀 프로젝트)<br/>
     <span style="font-size: 14px; font-weight: normal;">
       - <strong>프론트엔드 전반</strong>을 혼자 구현한 경쟁 점수 시스템 웹사이트<br/>
       - JWT 기반 관리자 인증, 실시간 점수 업데이트, 관리자 페이지 구성 등
