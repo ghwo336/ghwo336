@@ -39,11 +39,26 @@
 
 
 
-  <div align="start">
-    <h2 style="margin-bottom: 4px; border-bottom: 1px solid #21262d; color: #c9d1d9;">🐥Project  </h2>
-    <h3 style="margin-top: 0;"> <div> https://www.hi-rating.com/ <div/></h3>
-  </div>
+<div align="start">
+  <h2 style="margin-bottom: 4px; border-bottom: 1px solid #21262d; color: #c9d1d9;">🐥 Project</h2>
 
+  <h3 style="margin-top: 0;">
+    <a href="https://hiarchomepage.web.app/" target="_blank">HiARC 홈페이지</a> (팀 프로젝트)<br/>
+    <span style="font-size: 14px; font-weight: normal;">
+      - 개발팀 일원으로 <strong>서브 프론트엔드 개발</strong> 담당<br/>
+      - 수상경력 페이지 담당
+      - 학습하게된 좋은 계기
+    </span>
+  </h3>
+
+  <h3 style="margin-top: 24px;">
+    <a href="https://www.hi-rating.com/" target="_blank">Hi-Rating</a> (단독 프로젝트)<br/>
+    <span style="font-size: 14px; font-weight: normal;">
+      - <strong>프론트엔드 전반</strong>을 혼자 구현한 경쟁 점수 시스템 웹사이트<br/>
+      - JWT 기반 관리자 인증, 실시간 점수 업데이트, 관리자 페이지 구성 등
+    </span>
+  </h3>
+</div>
 
 
 
