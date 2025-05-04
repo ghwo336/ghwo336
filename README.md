@@ -56,7 +56,7 @@
     <span style="font-size: 14px; font-weight: normal;">
       - <strong>프론트엔드 전반</strong>을 혼자 구현한 경쟁 점수 시스템 웹사이트<br/>
       
-    </span>
+    
   </h3>
 </div>
 
