@@ -28,7 +28,7 @@
   <div align="start">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Blog </h2>
     <div align="start"> 
-      <a href="https://velog.io/@ghwo336">
+      <a href="https://velog.io/@ghwo336/series">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
       </a>
       <a href="https://ghwo336.tistory.com/">
