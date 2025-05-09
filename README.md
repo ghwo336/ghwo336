@@ -5,7 +5,7 @@
 - 좋아하는 동물은 **펠리컨**입니다  
 - 일단 **시도하는 편**입니다  
 
----
+
 
 ## 🛠️ Tech Stacks  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
@@ -16,13 +16,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white)
 
----
+
 
 ## 🧑‍💻 Blog  
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@ghwo336/series)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://ghwo336.tistory.com/)
 
----
+
 
 ## 🐥 Projects
 
@@ -37,12 +37,12 @@
 - 상태관리, API 통신, 반응형 UI 구현
 - 디자이너 및 백엔드와의 긴밀한 협업
 
----
+
 
 ## 🏅 알고리즘
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghwo336)](https://solved.ac/ghwo336)
 
----
+
 
 ## 🤝 Contact  
 📧 ghwo336@gmail.com
