@@ -14,11 +14,8 @@
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Next](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
-
-
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white)
 
