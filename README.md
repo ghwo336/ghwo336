@@ -34,7 +34,7 @@
 - **수상 경력 페이지 구현**
 - 협업 기반 구조 설계 및 디자이너와의 협업 경험
 
-### [Hi-Rating](https://www.hi-rating.com/) — 팀 프로젝트
+### [Hi-Rating](https://rating.hiarc-official.com/) — 팀 프로젝트
 - **프론트엔드 전체 구현**
 - 실시간 알고리즘 경쟁 점수 시스템
 - 상태관리, API 통신, 반응형 UI 구현
