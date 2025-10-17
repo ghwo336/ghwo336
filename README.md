@@ -51,11 +51,12 @@
 ## 🏅 알고리즘
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghwo336)](https://solved.ac/ghwo336)
 
-## 🏆 수상
+## 🏆 수상 및 성과
 
 - **2024 Winter SUAPC** — 학교별 1등상  
 - **2024.09 홍익대학교 프로그래밍 경진대회** — 저학년 특별상  
-- **2025 Summer SUAPC** — 동상  
+- **2025 Summer SUAPC** — 동상
+- **2025 ICPC Seoul Regional 본선 진출**
 
 
 ## 🤝 Contact  
