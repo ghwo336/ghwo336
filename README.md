@@ -1,8 +1,8 @@
-## 😃 나의 소개  
-- 알고리즘과 블록체인을 좋아하는 이호재입니다.
-- 홍익대학교 컴퓨터공학과 3학년    
-- 좋아하는 동물은 **펠리컨**입니다  
-- 일단 **시도하는 편**입니다  
+## 😃 About Me  
+- I’m **Hojae Lee**, passionate about **algorithms** and **blockchain**.  
+- **3rd-year Computer Engineering student** at **Hongik University**.  
+- My favorite animal is the **pelican** 🐥  
+- I’m the type who **tries first** and optimizes later. (Fail fast, learn faster.)
 
 
 
@@ -22,47 +22,49 @@
 
 
 ## 🧑‍💻 Blog  
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@ghwo336/series)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@ghwo336/series)  
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://ghwo336.tistory.com/)
 
 
 
 ## 🐥 Projects
 
-### [HiARC 홈페이지](https://hiarchomepage.web.app/) — 팀 프로젝트
-- 하이아크 학회 홈페이지 프론트 일부 담당
-- **수상 경력 페이지 구현**
-- 협업 기반 구조 설계 및 디자이너와의 협업 경험
+### [HiARC Homepage](https://hiarchomepage.web.app/) — Team Project
+- Partially responsible for frontend development of the HiARC club website  
+- Implemented the **Awards & Achievements page**  
+- Experience in **collaborative architecture design** and working closely with designers  
 
-### [Hi-Rating](https://rating.hiarc-official.com/) — 팀 프로젝트
-- **프론트엔드 전체 구현**
-- 모노 레포지토리 적용
-- 쿠키를 사용한 로그인 구현(관리자페이지)
-- 실시간 알고리즘 경쟁 점수 시스템
-- 상태관리, API 통신, 반응형 UI 구현
-- 디자이너 및 백엔드 개발자와의 협업
-
-
-## 🎓 소속  
-
-- **홍익대학교 컴퓨터공학과** (2023.03 ~ 재학 중)  
-- **홍익대학교 알고리즘 학회 운영진** (2023.03 ~ 2024.12)  
-- **하이아크 개발팀** (2024.09 ~ 2025.09)  
+### [Hi-Rating](https://rating.hiarc-official.com/) — Team Project
+- **Implemented the entire frontend**  
+- Applied **monorepo architecture**  
+- Implemented admin login using **cookies**  
+- Real-time algorithm competition **scoring system**  
+- State management, API integration, and responsive UI  
+- Collaborated with designers and backend developers  
 
 
 
-## 🏅 알고리즘
+## 🎓 Affiliations  
+
+- **Hongik University, Department of Computer Engineering** (Mar 2023 ~ Present)  
+- **Operations Team, Hongik Algorithm Club** (Mar 2023 ~ Dec 2024)  
+- **HiARC Development Team** (Sep 2024 ~ Sep 2025)  
+
+
+
+## 🏅 Algorithms  
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghwo336)](https://solved.ac/ghwo336)
 
-## 🏆 수상 및 성과
 
-- **2024 Winter SUAPC** — 학교별 1등상  
-- **2024.09 홍익대학교 프로그래밍 경진대회** — 저학년 특별상  
-- **2025 Summer SUAPC** — 동상
-- **2025 ICPC Seoul Regional 본선 진출**
+
+## 🏆 Awards & Achievements  
+
+- **2024 Winter SUAPC** — 1st Place (University Ranking)  
+- **Sep 2024 Hongik University Programming Contest** — Special Award (Lower Division)  
+- **2025 Summer SUAPC** — Bronze Award  
+- **2025 ICPC Seoul Regional** — Onsite Finalist  
+
 
 
 ## 🤝 Contact  
 📧 ghwo336@gmail.com
-
-
