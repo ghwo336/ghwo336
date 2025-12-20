@@ -62,7 +62,7 @@
 - **2024 Winter SUAPC** — 1st Place (University Ranking)  
 - **Sep 2024 Hongik University Programming Contest** — Special Award (Lower Division)  
 - **2025 Summer SUAPC** — Bronze Award  
-- **2025 ICPC Seoul Regional** — Onsite Finalist  
+- **2025 ICPC Seoul Regional** 
 
 
 
