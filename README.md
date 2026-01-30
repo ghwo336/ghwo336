@@ -1,6 +1,6 @@
 ## 😃 About Me  
 - I’m **Hojae Lee**, passionate about **algorithms** and **blockchain**.  
-- **3rd-year Computer Engineering student** at **Hongik University**.  
+- **4th-year Computer Engineering student** at **Hongik University**.  
 - My favorite animal is the **pelican** 🐥  
 - I’m the type who **tries first** and optimizes later. (Fail fast, learn faster.)
 
