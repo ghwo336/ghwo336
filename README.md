@@ -63,7 +63,7 @@
 - **2024 Winter SUAPC** — University Award (Top Team from Hongik University, outside Overall Top 10)  
 - **Sep 2024 Hongik University Programming Contest** — Special Award (Lower Division)  
 - **2025 Summer SUAPC** — Bronze Award  
-- **2025 ICPC Seoul Regional** - Onsite Participant
+- **2025 ICPC Seoul Regional** — Onsite Participant (Hongik University Representative)
 
 
 
