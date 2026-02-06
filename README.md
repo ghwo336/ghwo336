@@ -48,7 +48,8 @@
 
 - **Hongik University, Department of Computer Engineering** (Mar 2023 ~ Present)  
 - **Operations Team, Hongik Algorithm Club** (Mar 2023 ~ Dec 2024)  
-- **HiARC Development Team** (Sep 2024 ~ Sep 2025)  
+- **HiARC Development Team** (Sep 2024 ~ Sep 2025)
+- **Blockchain at Yonsei — Onboarding Team** (Jan 2026 ~ Present)  
 
 
 
