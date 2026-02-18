@@ -47,15 +47,15 @@
 - State management, API integration, and responsive UI  
 - Collaborated with designers and backend developers
 
-### [PAWNABLE](https://pawnable.site) — Team Project (Hackathon MVP)
+### PAWNABLE — Team Project (Hackathon MVP)
 
-> 🏆 Built and completed at the **Hong Kong Consensus Hackathon 2026**
+🏆 Built and completed at the Hong Kong Consensus Hackathon 2026
 
 - Designed and implemented a **time-based liquidation P2P lending protocol**
 - Eliminated **price-oracle dependency and liquidation MEV risk**
-- Developed **Solidity smart contracts (Foundry + OpenZeppelin)**
-- Built backend indexer using **Express + Prisma + PostgreSQL**
-- Implemented full-stack integration with **Next.js frontend**
+- Led development of **Solidity smart contracts** (Foundry + OpenZeppelin)
+- Architected and implemented the **backend indexer** using Express + Prisma + PostgreSQL
+- Integrated smart contracts with Next.js frontend for on-chain interactions
 - Deployed on **Base Sepolia** and conducted end-to-end on-chain testing
 - Presented live demo in English at the hackathon
   
