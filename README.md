@@ -47,7 +47,7 @@
 - State management, API integration, and responsive UI  
 - Collaborated with designers and backend developers
 
-### PAWNABLE — Team Project (Hackathon MVP)
+### [PAWNABLE](https://pawnable.site) — Team Project (Hackathon MVP)
 
 🏆 Built and completed at the Hong Kong Consensus Hackathon 2026
 
