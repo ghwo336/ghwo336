@@ -7,8 +7,6 @@
 
 
 ## 🛠️ Tech Stacks  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
