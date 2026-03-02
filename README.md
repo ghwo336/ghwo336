@@ -29,34 +29,53 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://ghwo336.tistory.com/)
 
 
+🐥 Projects
 
-## 🐥 Projects
+HEIST￼ — Solo Project (Solana Startup Village)
 
-### [HiARC Homepage](https://hiarchomepage.web.app/) — Team Project
-- Partially responsible for frontend development of the HiARC club website  
-- Implemented the **Awards & Achievements page**  
-- Experience in **collaborative architecture design** and working closely with designers  
+🎮 6-player real-time asymmetric PvP game (Single Map MVP)
 
-### [Hi-Rating](https://rating.hiarc-official.com/) — Team Project
-- **Implemented the entire frontend**  
-- Applied **monorepo architecture**  
-- Implemented admin login using **cookies**  
-- Real-time algorithm competition **scoring system**  
-- State management, API integration, and responsive UI  
-- Collaborated with designers and backend developers
+Built as a submission for Solana Startup Village
+	•	Designed a 4 thieves vs 2 police asymmetric game structure
+	•	Implemented role-based vision system (Fog of War)
+	•	Developed real-time multiplayer gameplay logic
+	•	Implemented thief skills: Steal, Deploy Wall, Disguise, Break Jail
+	•	Implemented police arrest mechanic (single-officer capture)
+	•	Built single-map MVP with resource control mechanics
+	•	Wallet connection used as player ID (prototype stage)
+	•	Designed architecture for future on-chain escrow & settlement integration
 
-### [PAWNABLE](https://pawnable.site) — Team Project (Hackathon MVP)
+Focused on combining real-time game mechanics + Web3 settlement layer design.
+
+⸻
+
+PAWNABLE￼ — Team Project (Hackathon MVP)
 
 🏆 Built and completed at the Hong Kong Consensus Hackathon 2026
+	•	Designed and implemented a time-based liquidation P2P lending protocol
+	•	Eliminated price-oracle dependency and liquidation MEV risk
+	•	Led development of Solidity smart contracts (Foundry + OpenZeppelin)
+	•	Architected and implemented the backend indexer using Express + Prisma + PostgreSQL
+	•	Integrated smart contracts with Next.js frontend for on-chain interactions
+	•	Deployed on Base Sepolia and conducted end-to-end on-chain testing
+	•	Presented live demo in English at the hackathon
 
-- Designed and implemented a **time-based liquidation P2P lending protocol**
-- Eliminated **price-oracle dependency and liquidation MEV risk**
-- Led development of **Solidity smart contracts** (Foundry + OpenZeppelin)
-- Architected and implemented the **backend indexer** using Express + Prisma + PostgreSQL
-- Integrated smart contracts with Next.js frontend for on-chain interactions
-- Deployed on **Base Sepolia** and conducted end-to-end on-chain testing
-- Presented live demo in English at the hackathon
-  
+⸻
+
+Hi-Rating￼ — Team Project
+	•	Implemented the entire frontend
+	•	Applied monorepo architecture
+	•	Built admin login system using cookies
+	•	Developed real-time algorithm competition scoring system
+	•	Managed state, API integration, and responsive UI
+	•	Collaborated closely with designers and backend developers
+
+⸻
+
+HiARC Homepage￼ — Team Project
+	•	Contributed to frontend development of the HiARC club website
+	•	Implemented the Awards & Achievements page
+	•	Experienced in collaborative architecture design and cross-functional teamwork
 
 
 
