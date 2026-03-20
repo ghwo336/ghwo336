@@ -103,7 +103,8 @@
 - 2024 Winter SUAPC — University Award  
 - Sep 2024 Hongik University Programming Contest — Special Award  
 - 2025 Summer SUAPC — Bronze Award  
-- 2025 ICPC Seoul Regional — Onsite Participant  
+- 2025 ICPC Seoul Regional — Onsite Participant
+- 2026 WorldLand Grant Program (Track A) — Selected Team (Top 10), 20,000 WL Grant  
 
 ---
 
