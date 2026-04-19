@@ -7,6 +7,14 @@
 
 ---
 
+
+
+## 📊 Algorithm Stats  
+
+[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=ghwo336&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
+
+---
+
 ## 🛠️ Tech Stacks  
 
 ### Languages  
