@@ -28,14 +28,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white)
 
-### Blockchain / Web3  
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Base](https://img.shields.io/badge/Base-0052FF?style=flat&logo=coinbase&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white)
-![USDC](https://img.shields.io/badge/USDC-2775CA?style=flat&logo=usdcoin&logoColor=white)
-![x402](https://img.shields.io/badge/x402-Micropayments-000000?style=flat)
-
 ---
 
 ## 🧑‍💻 Blog  
@@ -47,7 +39,7 @@
 
 ## 🐥 Projects
 
-### ChainLens — Team Project (EasyA Kickstart-backed / Consensus Miami 2026)
+### [ChainLens](https://chainlens.pelicanlab.dev) — Team Project (EasyA Kickstart-backed / Consensus Miami 2026)
 
 🤖 Agent-native verified API marketplace with x402 payments, escrow, and response validation
 
