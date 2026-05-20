@@ -4,6 +4,7 @@
 - **4th-year Computer Engineering student** at **Hongik University**.
 - **Founder of ChainLens**, an **EasyA Kickstart-backed verified API marketplace for AI agents** (live $LENS token on Solana).
 - **Coinbase / AWS Track Runner-up** & **invited speaker** at the EasyA Hackathon, **Consensus Miami 2026** — ChainLens was also **featured in CoinDesk**.
+- **Speaker** at the AI Agentic Finance Forum (Injective × Ark Point) and Consensus Miami 2026.
 - I enjoy building products **end-to-end** — from system design to on-chain logic.
 - My favorite animal is the **pelican** 🐥
 - I build first and optimize later. (Fail fast, learn faster.)
@@ -134,6 +135,13 @@
 
 ---
 
+## 🎤 Speaking  
+
+- **AI Agentic Finance Forum** (Injective × Ark Point · BuidlAsia Week Side Event, Seoul, Apr 2026) — *"Agent-Ready DeFi: Building with Injective's AI Skill Layer"* — live demo connecting Claude Desktop (MCP) to Injective mainnet and opening a live INJ/USDT perp position on stage
+- **Consensus Miami 2026** (EasyA Hackathon) — Invited speaker, 30-min session on building with AI agents
+
+---
+
 ## 🏅 Algorithms  
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghwo336)](https://solved.ac/ghwo336)
@@ -147,6 +155,7 @@
 - 2025 Summer SUAPC — Bronze Award
 - 2025 ICPC Seoul Regional — Onsite Participant
 - 2026 WorldLand Grant Program (Track A) — Selected Team (Top 10), 20,000 WL Grant
+- 2026 AI Agentic Finance Forum (Injective × Ark Point) — Invited Speaker
 - 2026 EasyA Kickstart — Backed Project, ChainLens
 - 2026 Korea University AI·SW·Blockchain Business Model Competition — Excellence Award (우수상)
 - 2026 Consensus Miami (EasyA Hackathon) — **Coinbase / AWS Track Runner-up**, Invited Speaker (30-min session), CoinDesk feature
