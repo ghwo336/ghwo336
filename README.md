@@ -1,8 +1,9 @@
 ## 😃 About Me  
 
-- I’m **Hojae Lee**, passionate about **algorithms, real-time systems, blockchain, and agent-native products**.
+- I'm **Hojae Lee**, passionate about **algorithms, real-time systems, blockchain, and agent-native products**.
 - **4th-year Computer Engineering student** at **Hongik University**.
-- Currently building **ChainLens**, an **EasyA Kickstart-backed verified API marketplace for AI agents**.
+- **Founder of ChainLens**, an **EasyA Kickstart-backed verified API marketplace for AI agents** (live $LENS token on Solana).
+- **Coinbase / AWS Track Runner-up** & **invited speaker** at the EasyA Hackathon, **Consensus Miami 2026** — ChainLens was also **featured in CoinDesk**.
 - I enjoy building products **end-to-end** — from system design to on-chain logic.
 - My favorite animal is the **pelican** 🐥
 - I build first and optimize later. (Fail fast, learn faster.)
@@ -39,11 +40,15 @@
 
 ## 🐥 Projects
 
-### [ChainLens](https://chainlens.pelicanlab.dev) — Team Project (EasyA Kickstart-backed / Consensus Miami 2026)
+### [ChainLens](https://chainlens.pelicanlab.dev) — Founder (EasyA Kickstart-backed / Consensus Miami 2026)
 
 🤖 Agent-native verified API marketplace with x402 payments, escrow, and response validation
 
-- Co-built **ChainLens**, a verified API marketplace where AI agents can discover, purchase, and consume trusted APIs
+> 📰 *Featured in [CoinDesk](https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon): "ChainLens focused on trust and verification for autonomous systems, building an x402-compatible layer that connects AI agents to verified APIs."*
+
+- **Founded and lead ChainLens**, a verified API marketplace where AI agents can discover, purchase, and consume trusted APIs
+- **Coinbase / AWS Track Runner-up** at the EasyA Hackathon, Consensus Miami 2026 (~1,000 developers)
+- Presented ChainLens at **Consensus Miami 2026** as an invited speaker (30-min session)
 - Designed the product around three core layers:
   - **Discovery** — marketplace for agent-consumable APIs
   - **Trust** — API validation and response verification
@@ -58,8 +63,7 @@
   - Prompt injection filtering
 - Implemented **5% USDC protocol fee**
 - Deployed MVP transaction flow on **Base Sepolia**
-- Issued public **$LENS token on Solana** through **EasyA Kickstart**
-- Received **EasyA Kickstart support** and prepared ChainLens for **Consensus Miami 2026**
+- Issued and **operate a public $LENS token on Solana** through **EasyA Kickstart**
 - Built early public traction with **150+ X followers**, public token launch, and community-driven market activity
 - Reached approximately **$15K peak token market cap** during early launch
 - Created project branding including **$LENS ticker-based team merch**
@@ -126,7 +130,7 @@
 - HiARC Development Team (Sep 2024 ~ Sep 2025)
 - Blockchain at Yonsei — Onboarding Team (Jan 2026 ~ Present)
 - Injective NinjaLabs — Cohort 2 Member (Mar 2026 ~ Feb 2027)
-- ChainLens — Co-builder, EasyA Kickstart-backed Project (Apr 2026 ~ Present)
+- ChainLens — Founder, EasyA Kickstart-backed Project (Apr 2026 ~ Present)
 
 ---
 
@@ -144,7 +148,8 @@
 - 2025 ICPC Seoul Regional — Onsite Participant
 - 2026 WorldLand Grant Program (Track A) — Selected Team (Top 10), 20,000 WL Grant
 - 2026 EasyA Kickstart — Backed Project, ChainLens
-- 2026 Consensus Miami — ChainLens Live Demo / Pitch Project
+- 2026 Korea University AI·SW·Blockchain Business Model Competition — Excellence Award (우수상)
+- 2026 Consensus Miami (EasyA Hackathon) — **Coinbase / AWS Track Runner-up**, Invited Speaker (30-min session), CoinDesk feature
 
 ---
 
