@@ -68,4 +68,5 @@
 
 ## 🤝 Contact  
 
-📧 ghwo336@gmail.com
+- 𝕏 [@ihojae212644](https://x.com/ihojae212644)
+- 📧 ghwo336@gmail.com
