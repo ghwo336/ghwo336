@@ -1,13 +1,12 @@
 ## 😃 About Me  
 
-- I'm **Hojae Lee**, passionate about **algorithms, real-time systems, blockchain, and agent-native products**.
+- I'm **Hojae Lee** — a competitive programmer turned founder, building **agent-native crypto products**.
 - **4th-year Computer Engineering student** at **Hongik University**.
-- **Founder of ChainLens**, an **EasyA Kickstart-backed verified API marketplace for AI agents** (live $LENS token on Solana).
-- **Coinbase / AWS Track Runner-up** & **invited speaker** at the EasyA Hackathon, **Consensus Miami 2026** — ChainLens was also **featured in CoinDesk**.
-- **Speaker** at the AI Agentic Finance Forum (Injective × Ark Point) and Consensus Miami 2026.
-- I enjoy building products **end-to-end** — from system design to on-chain logic.
-- My favorite animal is the **pelican** 🐥
-- I build first and optimize later. (Fail fast, learn faster.)
+- **Founder of ChainLens** (EasyA Kickstart-backed, live $LENS token on Solana).
+- **Injective Ambassador** · **NinjaLabs Cohort 2** · **Blockchain at Yonsei** (Ops Team).
+- My favorite animal is the **pelican** 🐥 — I build first and optimize later. (Fail fast, learn faster.)
+
+> 📰 Featured in **[CoinDesk](https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon)** for ChainLens — building a trust & verification layer that connects AI agents to verified APIs.
 
 ---
 
@@ -32,133 +31,38 @@
 
 ---
 
-## 🧑‍💻 Blog  
+## 🏆 Awards & Achievements  
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@ghwo336/series)  
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://ghwo336.tistory.com/)
-
----
-
-## 🐥 Projects
-
-### [ChainLens](https://chainlens.pelicanlab.dev) — Founder (EasyA Kickstart-backed / Consensus Miami 2026)
-
-🤖 Agent-native verified API marketplace with x402 payments, escrow, and response validation
-
-> 📰 *Featured in [CoinDesk](https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon): "ChainLens focused on trust and verification for autonomous systems, building an x402-compatible layer that connects AI agents to verified APIs."*
-
-- **Founded and lead ChainLens**, a verified API marketplace where AI agents can discover, purchase, and consume trusted APIs
-- **Coinbase / AWS Track Runner-up** at the EasyA Hackathon, Consensus Miami 2026 (~1,000 developers)
-- Presented ChainLens at **Consensus Miami 2026** as an invited speaker (30-min session)
-- Designed the product around three core layers:
-  - **Discovery** — marketplace for agent-consumable APIs
-  - **Trust** — API validation and response verification
-  - **Payment** — x402-based payment and escrow-style settlement
-- Built seller API registration, validation, and approval flow
-- Developed agent-facing API search, discovery, and routing flow
-- Integrated **x402-based payment flow** for HTTP-level agent payments
-- Designed escrow-style settlement using signed payment authorization
-- Implemented response verification pipeline:
-  - Null checks
-  - Basic schema validation
-  - Prompt injection filtering
-- Implemented **5% USDC protocol fee**
-- Deployed MVP transaction flow on **Base Sepolia**
-- Issued and **operate a public $LENS token on Solana** through **EasyA Kickstart**
-- Built early public traction with **150+ X followers**, public token launch, and community-driven market activity
-- Reached approximately **$15K peak token market cap** during early launch
-- Created project branding including **$LENS ticker-based team merch**
-
-`Token CA: BVG5pTybt2EV2LzfDoKLPmH8QVRoq5XPbdBUAy2rtCdb`
-
----
-
-### [HEIST](https://yt4307.mooo.com) — Team Project (Solana Startup Village)
-
-🎮 6-player real-time asymmetric PvP game (Single Map MVP)
-
-- Designed a **4 thieves vs 2 police** asymmetric structure
-- Implemented **role-based vision system (Fog of War)**
-- Developed real-time multiplayer gameplay logic
-- Implemented thief skills: Steal, Deploy Wall, Disguise, Break Jail
-- Implemented police arrest mechanic with single-officer capture
-- Built single-map MVP with resource control mechanics
-- Used wallet connection as player ID in prototype stage
-- Designed architecture for future on-chain escrow and settlement integration
-
----
-
-### [PAWNABLE](https://pawnable.site) — Team Project (Hackathon MVP)
-
-🏆 Built at the Hong Kong Consensus Hackathon 2026
-
-- Designed and implemented a **time-based liquidation P2P lending protocol**
-- Eliminated **price-oracle dependency and liquidation MEV risk**
-- Developed **Solidity smart contracts** using Foundry and OpenZeppelin
-- Built backend indexer using Express, Prisma, and PostgreSQL
-- Integrated smart contracts with Next.js frontend
-- Deployed on **Base Sepolia**
-- Presented live demo in English
-
----
-
-### [Hi-Rating](https://rating.hiarc-official.com/) — Team Project
-
-🏁 Real-time algorithm competition scoring system
-
-- Implemented the **entire frontend**
-- Applied **monorepo architecture**
-- Built admin login system using cookies
-- Developed real-time algorithm competition scoring interface
-- Managed state, API integration, and responsive UI
-
----
-
-### [HiARC Homepage](https://hiarchomepage.web.app/) — Team Project
-
-🏫 Official homepage for Hongik University Algorithm Club
-
-- Contributed to frontend development
-- Implemented the Awards & Achievements page
-- Worked in collaborative architecture design
+- **2026 Consensus Miami (EasyA Hackathon)** — **Coinbase / AWS Track Runner-up** · Invited main-stage speaker (30-min session) · featured in **[CoinDesk](https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon)**
+- **2026 AI Agentic Finance Forum** (Injective × Ark Point) — Invited speaker; live Claude Desktop (MCP) → Injective mainnet demo, opening an INJ/USDT perp position on stage
+- **2026 Korea University AI·SW·Blockchain Business Model Competition** — Excellence Award (우수상)
+- **2026 EasyA Kickstart** — Backed Project (ChainLens)
+- **2026 WorldLand Grant Program (Track A)** — Selected Team (Top 10), 20,000 WL Grant
+- **2026 [Solana Startup Village — Student Award (Team HEIST)](https://x.com/SuperteamKorea/status/2059255321479331901)**
+- **2025 ICPC Seoul Regional** — Qualified for Onsite, representing Hongik University
+- **2025 Summer SUAPC** — Bronze Award
+- **2024 Winter SUAPC** — University Award
+- **2024 Hongik University Programming Contest** — Special Award
 
 ---
 
 ## 🎓 Affiliations  
 
-- Hongik University, Department of Computer Engineering (Mar 2023 ~ Present)
-- Operations Team, Hongik Algorithm Club (Mar 2023 ~ Dec 2024)
-- HiARC Development Team (Sep 2024 ~ Sep 2025)
-- Blockchain at Yonsei — Onboarding Team (Jan 2026 ~ Present)
-- Injective NinjaLabs — Cohort 2 Member (Mar 2026 ~ Feb 2027)
-- ChainLens — Founder, EasyA Kickstart-backed Project (Apr 2026 ~ Present)
+- **ChainLens** — Founder, EasyA Kickstart-backed Project (Apr 2026 ~ Present)
+- **Injective Ambassador Program** (2026 ~ Present)
+- **Injective NinjaLabs** — Cohort 2 Member (Mar 2026 ~ Feb 2027)
+- **Blockchain at Yonsei** — Operations Team (Jun 2026 ~ Present) · Onboarding Team (Feb 2026 ~ Jun 2026)
+- Hongik University, Dept. of Computer Engineering (Mar 2023 ~ Present)
+- HiARC (Hongik Algorithm Club) — Operations & Dev Team (Mar 2023 ~ Sep 2025)
 
 ---
 
-## 🎤 Speaking  
+## 🧑‍💻 Blog  
 
-- **AI Agentic Finance Forum** (Injective × Ark Point · BuidlAsia Week Side Event, Seoul, Apr 2026) — *"Agent-Ready DeFi: Building with Injective's AI Skill Layer"* — live demo connecting Claude Desktop (MCP) to Injective mainnet and opening a live INJ/USDT perp position on stage
-- **Consensus Miami 2026** (EasyA Hackathon) — Invited speaker, 30-min session on building with AI agents
-
----
-
-## 🏅 Algorithms  
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@ghwo336/series)  
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://ghwo336.tistory.com/)
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghwo336)](https://solved.ac/ghwo336)
-
----
-
-## 🏆 Awards & Achievements  
-
-- 2024 Winter SUAPC — University Award
-- Sep 2024 Hongik University Programming Contest — Special Award
-- 2025 Summer SUAPC — Bronze Award
-- 2025 ICPC Seoul Regional — Onsite Participant
-- 2026 WorldLand Grant Program (Track A) — Selected Team (Top 10), 20,000 WL Grant
-- 2026 AI Agentic Finance Forum (Injective × Ark Point) — Invited Speaker
-- 2026 EasyA Kickstart — Backed Project, ChainLens
-- 2026 Korea University AI·SW·Blockchain Business Model Competition — Excellence Award (우수상)
-- 2026 Consensus Miami (EasyA Hackathon) — **Coinbase / AWS Track Runner-up**, Invited Speaker (30-min session), CoinDesk feature
 
 ---
 
