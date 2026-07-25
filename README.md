@@ -43,7 +43,7 @@
 - **2025 Summer SUAPC** — Bronze Award
 - **2024 Winter SUAPC** — University Award
 - **2024 Hongik University Programming Contest** — Special Award
-- **Blockchain at Yonsei** — Development Team Lead (Jul 2026 ~ Present)
+
 
 ---
 
@@ -55,6 +55,7 @@
 - **Blockchain at Yonsei** — Operations Team (Jun 2026 ~ Present) · Onboarding Team (Feb 2026 ~ Jun 2026)
 - Hongik University, Dept. of Computer Engineering (Mar 2023 ~ Present)
 - HiARC (Hongik Algorithm Club) — Operations & Dev Team (Mar 2023 ~ Sep 2025)
+- **Blockchain at Yonsei** — Development Team Lead (Jul 2026 ~ Present)
 
 ---
 
