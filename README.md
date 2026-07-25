@@ -43,6 +43,7 @@
 - **2025 Summer SUAPC** — Bronze Award
 - **2024 Winter SUAPC** — University Award
 - **2024 Hongik University Programming Contest** — Special Award
+- **Blockchain at Yonsei** — Development Team Lead (Jul 2026 ~ Present)
 
 ---
 
