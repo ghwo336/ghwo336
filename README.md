@@ -2,7 +2,6 @@
 
 - I'm **Hojae Lee** — a competitive programmer turned founder, building **agent-native crypto products**.
 - **4th-year Computer Engineering student** at **Hongik University**.
-- **Founder of ChainLens** (EasyA Kickstart-backed, live $LENS token on Solana).
 - **Injective Ambassador** · **NinjaLabs Cohort 2** · **Blockchain at Yonsei** (Ops Team).
 - My favorite animal is the **pelican** 🐥 — I build first and optimize later. (Fail fast, learn faster.)
 
