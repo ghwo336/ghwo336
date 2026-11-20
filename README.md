@@ -48,7 +48,6 @@
 
 ## 🎓 Affiliations  
 
-- **ChainLens** — Founder, EasyA Kickstart-backed Project (Apr 2026 ~ Present)
 - **Injective Ambassador Program** (2026 ~ Present)
 - **Injective NinjaLabs** — Cohort 2 Member (Mar 2026 ~ Feb 2027)
 - **Blockchain at Yonsei** — Operations Team (Jun 2026 ~ Present) · Onboarding Team (Feb 2026 ~ Jun 2026)
